@@ -5,3 +5,9 @@
 // var c = 60;
 // var sum = a+b+c+v;
 //  console.log(sum)
+
+
+// console.log(age);
+// var age =33;
+
+

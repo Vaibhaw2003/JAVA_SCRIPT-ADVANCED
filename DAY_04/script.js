@@ -11,3 +11,10 @@
 // var age =33;
 
 
+// var a = 12;
+// var b = 34;
+// var sum = a+ b;
+// console.log(sum)
+
+let  name =  prompt("enter the number : ")
+console.log("helll" +  name)
